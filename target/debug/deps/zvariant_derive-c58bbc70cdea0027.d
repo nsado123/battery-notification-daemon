@@ -1,0 +1,10 @@
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/libzvariant_derive-c58bbc70cdea0027.so: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/dict.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/type.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/utils.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/value.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/../README.md
+
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/zvariant_derive-c58bbc70cdea0027.d: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/dict.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/type.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/utils.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/value.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/../README.md
+
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/lib.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/dict.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/type.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/utils.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/value.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zvariant_derive-5.2.0/src/../README.md:

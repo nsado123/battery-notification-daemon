@@ -1,0 +1,12 @@
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/libasync_lock-6945de8a407080e3.rmeta: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/barrier.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/mutex.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/once_cell.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/futures.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/raw.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/semaphore.rs
+
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/async_lock-6945de8a407080e3.d: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/barrier.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/mutex.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/once_cell.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/futures.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/raw.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/semaphore.rs
+
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/lib.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/barrier.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/mutex.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/once_cell.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/futures.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/rwlock/raw.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-3.4.0/src/semaphore.rs:

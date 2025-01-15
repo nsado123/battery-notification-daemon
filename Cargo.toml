@@ -1,0 +1,15 @@
+[package]
+name = "battery-notification-daemon"
+version = "0.1.0"
+edition = "2021"
+authors = ["nsado"]
+description = "A lightweight daemon to monitor battery status and send notifications."
+license = "MIT"
+repository = "https://github.com/nsado123/battery-notification-daemon"
+categories = ["system", "utilities"]
+keywords = ["battery", "notification", "daemon", "system-monitor"]
+
+[dependencies]
+battery = "0.7.8"
+notify-rust = "4.11.4"
+tokio = { version = "1", features = ["full"] }

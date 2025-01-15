@@ -1,0 +1,7 @@
+[Service]
+ExecStart=battery_notifier
+Restart=always
+Type=simple
+
+[Install]
+WantedBy=default.target

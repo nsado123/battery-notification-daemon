@@ -1,0 +1,11 @@
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/libasync_task-b1d203c065e82895.rmeta: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs
+
+/home/nsado/Nextcloud/battery-notification-daemon/target/debug/deps/async_task-b1d203c065e82895.d: /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs /home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs
+
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/lib.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/header.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/raw.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/runnable.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/state.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/task.rs:
+/home/nsado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.7.1/src/utils.rs:
