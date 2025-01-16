@@ -1,5 +1,5 @@
 [Service]
-ExecStart=battery_notifier
+ExecStart=battery-notification-daemon
 Restart=always
 Type=simple
 
