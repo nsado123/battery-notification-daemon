@@ -11,11 +11,11 @@ const CRITICAL_BATTERY_THRESHOLD: f32 = 10.0;
 const FULL_BATTERY_THRESHOLD: f32 = 100.0;
 
 // Define SVG icon paths
-const CRITICAL_ICON: &str = "/usr/share/icons/critical.svg";
-const LOW_ICON: &str = "/usr/share/icons/low-battery.svg";
-const FULL_ICON: &str = "/usr/share/icons/full-battery.svg";
-const CHARGING_ICON: &str = "/usr/share/icons/charging.svg";
-const DISCHARGING_ICON: &str = "/usr/share/icons/unplugged.svg";
+const CRITICAL_ICON: &str = "/home/nsado/.local/share/icons/battery/critical.svg";
+const LOW_ICON: &str = "/home/nsado/.local/share/icons/battery/low-battery.svg";
+const FULL_ICON: &str = "/home/nsado/.local/share/icons/battery/full-battery.svg";
+const CHARGING_ICON: &str = "/home/nsado/.local/share/icons/battery/charging.svg";
+const DISCHARGING_ICON: &str = "/home/nsado/.local/share/icons/battery/unplugged.svg";
 
 #[tokio::main]
 async fn main() -> battery::Result<()> {
